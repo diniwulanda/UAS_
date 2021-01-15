@@ -1,1 +1,1 @@
-# UAS_
+Untuk memenuhi tugas UAS mata kuliah Kecerdasan Buatan
